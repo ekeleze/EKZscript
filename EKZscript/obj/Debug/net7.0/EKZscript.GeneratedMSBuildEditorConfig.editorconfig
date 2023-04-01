@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EKZ_UWS
-build_property.ProjectDir = C:\Users\User\RiderProjects\EKZ-UWS\EKZscript\
+build_property.ProjectDir = C:\Users\User\Documents\GitHub\EKZscript\EKZscript\

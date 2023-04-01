@@ -1,7 +1,7 @@
 ﻿using EKZ_UWS.GoCode;
 using EKZ_UWS._9xCode;
 using System;
-
+using EKZ_UWS.EKZscript;
 using static System.ConsoleColor;
 
 namespace EKZ_UWS
@@ -105,7 +105,7 @@ namespace EKZ_UWS
                 
                 if (mode == "ekzscript")
                 {
-                    
+
 
                     foreach (string line in content)
                     {
@@ -121,6 +121,10 @@ namespace EKZ_UWS
                         {
                             Toggle = "9x";
                         }
+                        else if (line == "ekz" && badif == false)
+                        {
+                            Toggle = "ekz";
+                        }
                         else if (Toggle == "go" && badif == false)
                         {
                             GoCodeClass GoCodeHandler = new GoCodeClass();
@@ -131,10 +135,19 @@ namespace EKZ_UWS
                             NineX NineXHandler = new NineX();
                             NineXHandler.RunNine(line);
                         }
-                        else if (line == "break")
+                        else if (Toggle == "ekz" && badif == false)
+                        {
+                            EKZscriptHandler EKZhandler = new EKZscriptHandler();
+                            EKZhandler.runEKZ(line);
+                        }
+                        else if (isif == true && line == "break")
                         {
                             badif = false;
                             isif = false;
+                        }
+                        else if (isif == true && line != "break" && badif == true)
+                        {
+                            break;
                         }
                         else
                         {

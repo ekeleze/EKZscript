@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\EKZ-UWS\\EKZscript\\EKZscript.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\EKZscript\\EKZscript\\EKZscript.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\EKZ-UWS\\EKZscript\\EKZscript.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\EKZscript\\EKZscript\\EKZscript.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\EKZ-UWS\\EKZscript\\EKZscript.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\EKZscript\\EKZscript\\EKZscript.csproj",
         "projectName": "EKZscript",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\EKZ-UWS\\EKZscript\\EKZscript.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\EKZscript\\EKZscript\\EKZscript.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\EKZ-UWS\\EKZscript\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\EKZscript\\EKZscript\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
