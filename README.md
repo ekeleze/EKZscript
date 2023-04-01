@@ -20,7 +20,7 @@ I will try to get back to all issues quicly, thanks.
 
 ### 9xCode
 
-The documentation for 9xCode can be found at https://github.com/9xbt/9xCode/wiki
+The documentation for 9xCode can be found at https://github.com/9xbt/9xCode/wiki/Making-your-own-9xCode-script
 
 ### GoCode
 
