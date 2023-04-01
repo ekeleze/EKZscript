@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\bin\Debug\net7.0\EKZ-UWS.exe
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\bin\Debug\net7.0\EKZ-UWS.deps.json
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\bin\Debug\net7.0\EKZ-UWS.runtimeconfig.json
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\bin\Debug\net7.0\EKZ-UWS.dll
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\bin\Debug\net7.0\EKZ-UWS.pdb
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\EKZ-UWS.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\EKZ-UWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\EKZ-UWS.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\EKZ-UWS.AssemblyInfo.cs
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\EKZ-UWS.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\EKZ-UWS.dll
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\refint\EKZ-UWS.dll
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\EKZ-UWS.pdb
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\EKZ-UWS.genruntimeconfig.cache
+C:\Users\User\RiderProjects\EKZ-UWS\EKZ-UWS\obj\Debug\net7.0\ref\EKZ-UWS.dll
