@@ -10,8 +10,8 @@ Files must be .ekz or .ekzscript for toggle support, however you can run .9xc fi
 
 ## Bug reporting
 
-If the bug is non-fatal (as in EKZscript is still usable) make a post on the issues tab of this repo.
-If the bug is fatal (it makes EKZscript impossible to use) message me with a ping in my server (https://discord.gg/JUGY58Wz)
+If the bug is non-fatal (as in EKZscript is still usable) make a post on the issues tab of this repo.  
+If the bug is fatal (it makes EKZscript impossible to use) message me with a ping in my server (https://discord.gg/JUGY58Wz).  
 If you are a friend of mine, just DM me.
 
 I will try to get back to all issues quicly, thanks.
