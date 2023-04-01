@@ -5,7 +5,7 @@ This app is still in very early testing phases, and the languages supported are 
 
 ## Usage
 
-To run a file, open the run.bat file and type the path the file is at.
+To run a file, open the run.bat file and type the path the file is at.  
 Files must be .ekz or .ekzscript for toggle support, however you can run .9xc files and .gexe or .goexe although those only use their respective languages.
 
 ## Bug reporting
