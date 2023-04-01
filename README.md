@@ -5,12 +5,12 @@ This app is still in very early testing phases, and the languages supported are 
 
 ## Usage
 
-To run a file, open the run.bat file and type the path the file is at.
+To run a file, open the run.bat file and type the path the file is at.\n
 Files must be .ekz or .ekzscript for toggle support, however you can run .9xc files and .gexe or .goexe although those only use their respective languages.
 
 ## Bug reporting
 
-If the bug is non-fatal (as in EKZscript is still usable) make a post on the issues tab of this repo.
+If the bug is non-fatal (as in EKZscript is still usable) make a post on the issues tab of this repo.\n
 If the bug is fatal (it makes EKZscript impossible to use) message me with a ping in my server (https://discord.gg/JUGY58Wz)
 
 Thanks.
